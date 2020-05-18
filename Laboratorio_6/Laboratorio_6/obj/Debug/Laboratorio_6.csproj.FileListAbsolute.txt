@@ -1,0 +1,6 @@
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/bin/Debug/Laboratorio_6.exe
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/bin/Debug/Laboratorio_6.pdb
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/obj/Debug/Laboratorio_6.csprojAssemblyReference.cache
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/obj/Debug/Laboratorio_6.csproj.CoreCompileInputs.cache
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/obj/Debug/Laboratorio_6.exe
+/Users/Miguel/Desktop/laboratorio-06-mabarraza/Laboratorio_6/Laboratorio_6/obj/Debug/Laboratorio_6.pdb
