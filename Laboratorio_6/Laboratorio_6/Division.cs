@@ -1,11 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace Laboratorio_6
 {
-    public abstract class Division
+    [Serializable]
+    public class Division
     {
         public string Name { get; set; }
-        public Division()
-        {
-        }
+        public List<Person> worker = new List<Person>();
     }
 }

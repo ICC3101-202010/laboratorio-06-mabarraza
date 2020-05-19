@@ -1,14 +1,9 @@
 ﻿<Properties StartupConfiguration="{07FD6BB6-E235-42C6-84E9-7C41C191253E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio_6/Program.cs">
     <Files>
-      <File FileName="Laboratorio_6/Program.cs" Line="67" Column="14" />
-      <File FileName="Laboratorio_6/Division.cs" Line="9" Column="10" />
-      <File FileName="Laboratorio_6/Area.cs" Line="8" Column="30" />
-      <File FileName="Laboratorio_6/Department.cs" Line="8" Column="30" />
-      <File FileName="Laboratorio_6/Section.cs" Line="8" Column="30" />
-      <File FileName="Laboratorio_6/Block.cs" Line="8" Column="30" />
-      <File FileName="Laboratorio_6/Person.cs" Line="15" Column="26" />
-      <File FileName="Laboratorio_6/Company.cs" Line="7" Column="6" />
+      <File FileName="Laboratorio_6/Program.cs" Line="86" Column="55" />
+      <File FileName="Laboratorio_6/Division.cs" Line="12" Column="1" />
+      <File FileName="Laboratorio_6/Person.cs" Line="17" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
